@@ -1,3 +1,7 @@
+#Confidential files
+excel_sheets/*.xlsx
+bank_statements/*.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
