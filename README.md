@@ -19,12 +19,12 @@ This Python script extracts financial data from RBL PDF bank statements, validat
 
 ### Installation
 1. Clone the repository:
-   git clone https://github.com/amarig12/RBL-Bank-Statement-Processor.git
-   cd RBL-Bank-Statement-Processor
+   - git clone https://github.com/amarig12/RBL-Bank-Statement-Processor.git
+   - cd RBL-Bank-Statement-Processor
 
 2. Create and activate a virtual environment:
-    python3 -m venv .venv
-    source .venv/bin/activate  # On Windows use venv\Scripts\activate
+    - python3 -m venv .venv
+    - source .venv/bin/activate  # On Windows use venv\Scripts\activate
 
 3. Install dependencies:
     pip3 install -r requirements.txt
